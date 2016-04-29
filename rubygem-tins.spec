@@ -4,7 +4,7 @@
 #
 Name     : rubygem-tins
 Version  : 1.8.2
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/tins-1.8.2.gem
 Source0  : https://rubygems.org/downloads/tins-1.8.2.gem
 Summary  : No detailed summary available
